@@ -40,13 +40,18 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Toujar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd&icon_color=7c3aed&include_all_commits=true&count_private=true&hide_title=true&hide_rank=false" width="340" />
+I am a **Java Backend Developer** and **Full Stack Engineer** pursuing B.E. in Computer Science Engineering at VTU (CGPA: 8.7).
 
-I am a **Java Backend Developer** and **Full Stack Engineer** currently pursuing B.E. in Computer Science Engineering at VTU (CGPA: 8.7), with a strong foundation in building **scalable, secure, and high-performance enterprise systems**.
+I specialize in:
 
-My engineering philosophy centers around clean architecture, API-first design, and delivery of production-grade software. I specialize in **Spring Boot microservices**, **RESTful API engineering**, and **real-time communication systems** — with growing expertise in **cloud-native architecture** and **AI-augmented development workflows**.
+- Spring Boot & REST APIs
+- Secure Authentication (JWT, Spring Security)
+- Microservices & System Design
+- React.js & Next.js
+- MySQL & MongoDB
+- WebSocket Real-Time Applications
 
-I approach every problem with an engineering-first mindset — designing for **resilience, observability, and scale** from day one, rather than retrofitting those qualities later.
+Currently building enterprise-grade projects focused on backend engineering, scalable architectures, and cloud-native development.
 
 <br/>
 
@@ -73,6 +78,14 @@ currently_learning:
 
 <br/>
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toujar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a855f7&text_color=c4b5fd&icon_color=7c3aed&include_all_commits=true&count_private=true" />
+
+</div>
+
+<br/>
+
 **Open To:**
 &nbsp;
 ![Backend Roles](https://img.shields.io/badge/Backend%20Engineering%20Roles-6d28d9?style=flat-square&logoColor=white)
@@ -86,6 +99,7 @@ currently_learning:
 <br/>
 
 ---
+
 
 ## ⚙️ Tech Stack
 
