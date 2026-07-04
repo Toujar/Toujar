@@ -1,146 +1,93 @@
-# Toujar Kundenayak
+
+# Premium GitHub README Template
+
+> **Note:** This is a starter version preserving your purple theme and backend focus. Replace the GitHub stats username if needed.
 
 <div align="center">
 
-# Java Backend Developer | Spring Boot Developer | Full Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Toujar%20Kundenayak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Full%20Stack&descAlignY=58&descSize=18"/>
 
-B.E. Computer Science Engineering (VTU) • Java • Spring Boot • REST APIs • MySQL • MongoDB
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&width=800&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Java+Backend+Developer;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/toujar-kundenayak-a4612827b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Toujar-black?logo=github)](https://github.com/Toujar)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:kundenayaktoujar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/toujar-kundenayak-a4612827b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Toujar-8b5cf6?style=for-the-badge&logo=github)](https://github.com/Toujar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ToujarK-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ToujarK/)
 
 </div>
 
 ---
 
-# 👋 About Me
+# 🧠 About Me
 
-I'm a Java Backend Developer passionate about building secure, scalable backend applications using Spring Boot. I enjoy designing REST APIs, implementing authentication, and learning distributed systems.
-
+- 🎓 B.E. Computer Science Engineering (VTU)
+- ☕ Java Backend Developer
 - 🌱 Learning: Microservices, Redis, Kafka, Docker, AWS, System Design
-- 💼 Looking for: Java Backend / Spring Boot / Full Stack Developer roles
-- 📍 Karnataka, India
+- 💼 Open to Java Backend / Spring Boot / Full Stack opportunities
 
 ---
 
 # ⚙️ Tech Stack
 
-### Languages
-- Java
-- JavaScript
-- HTML
-- CSS
+## Backend
+`Java` `Spring Boot` `Spring MVC` `Spring Security` `Hibernate` `JPA` `REST APIs` `JWT`
 
-### Backend
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate / JPA
-- REST APIs
-- JWT Authentication
+## Frontend
+`React` `Next.js` `Tailwind CSS`
 
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
+## Database
+`MySQL` `MongoDB`
 
-### Database
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- Maven
-- Postman
+## Tools
+`Git` `GitHub` `Maven` `Postman`
 
 ---
 
 # 🚀 Featured Projects
 
-## 1. CreatorFlow
-Secure multi-role content approval platform built with Spring Boot, React, MySQL, Spring Security and JWT.
-
-**Highlights**
-- Role-based authentication
-- Secure approval workflow
-- REST APIs
-- Layered architecture
-
----
-
-## 2. ChatGuard Enterprise
-
-Enterprise real-time messaging application.
-
-**Tech**
-- Spring Boot
-- WebSocket
-- JWT
+## 🔒 ChatGuard Enterprise
+- Spring Boot + WebSocket
+- JWT Authentication
 - Spring Security
-- React
-
-**Features**
 - Real-time messaging
-- Protected chats
-- Authentication
-- Read receipts
+
+## ⚡ CreatorFlow
+- Multi-role workflow
+- REST APIs
+- MySQL
+- Spring Boot
+
+## 🏠 SmartLease Hub
+- Property rental platform
+- Role-based access
+- JWT
+- MySQL
 
 ---
 
-## 3. SmartLease Hub
+# 📊 GitHub Analytics
 
-Property rental management platform.
+<div align="center">
 
-**Features**
-- Owner & Tenant roles
-- Property management
-- Booking workflow
-- JWT authentication
-- MySQL database
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toujar&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toujar&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-# 💼 Experience
+<img src="https://streak-stats.demolab.com?user=Toujar&theme=midnight-purple&hide_border=true"/>
 
-## Full Stack Developer (Academic & Personal Projects)
-
-Built multiple end-to-end applications using Java, Spring Boot, React, MySQL and MongoDB.
-
-- Designed REST APIs
-- Implemented JWT authentication
-- Built responsive React interfaces
-- Applied layered architecture
-- Used Git for version control
+</div>
 
 ---
 
-# 🏆 Achievements
+# 📈 Contribution Graph
 
-- 🥇 College Hackathon Winner (2025)
-- 📈 CGPA: 8.7/10
-- 💻 Built multiple production-style full stack projects
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toujar&theme=github-compact&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=c4b5fd&area=true)](https://github.com/ashutosh00710)
 
 ---
 
-# 💻 Coding Profiles
+# 🐍 Contribution Snake
 
-- GitHub: https://github.com/Toujar
-- LeetCode: https://leetcode.com/u/ToujarK/
-- LinkedIn: https://www.linkedin.com/in/toujar-kundenayak-a4612827b/
-
----
-
-# 📊 GitHub Stats
-
-```md
-Keep your existing:
-- GitHub Readme Stats
-- Top Languages
-- GitHub Streak
-- Contribution Graph
-- Snake Animation
+```yaml
+Use your existing GitHub Action workflow for the snake animation.
 ```
 
 ---
@@ -148,22 +95,25 @@ Keep your existing:
 # 🎯 Current Focus
 
 - Spring Boot
+- REST APIs
 - Microservices
 - Redis
 - Kafka
 - Docker
 - AWS
 - System Design
-- DSA (Java)
+- DSA
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect
 
-- Email: kundenayaktoujar@gmail.com
-- LinkedIn: https://www.linkedin.com/in/toujar-kundenayak-a4612827b/
 - GitHub: https://github.com/Toujar
+- LinkedIn: https://www.linkedin.com/in/toujar-kundenayak-a4612827b/
+- Email: kundenayaktoujar@gmail.com
 
----
+<div align="center">
 
-> Building scalable backend systems one API at a time.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
+
+</div>
