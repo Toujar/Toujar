@@ -1,10 +1,3 @@
-
-# Premium GitHub README Template
-
-> **Note:** This is a starter version preserving your purple theme and backend focus. Replace the GitHub stats username if needed.
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Toujar%20Kundenayak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Full%20Stack&descAlignY=58&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&width=800&lines=Building+Scalable+Backend+Systems;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Java+Backend+Developer;Always+Learning+%26+Building)](https://git.io/typing-svg)
@@ -82,15 +75,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toujar&theme=github-compact&bg_color=0d0d1a&color=a855f7&line=7c3aed&point=c4b5fd&area=true)](https://github.com/ashutosh00710)
 
----
 
-# 🐍 Contribution Snake
-
-```yaml
-Use your existing GitHub Action workflow for the snake animation.
-```
-
----
 
 # 🎯 Current Focus
 
