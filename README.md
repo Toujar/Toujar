@@ -55,21 +55,7 @@
 - JWT
 - MySQL
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toujar&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toujar&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Toujar&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
